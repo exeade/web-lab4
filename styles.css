@@ -109,7 +109,7 @@ header h1 {
         color: #a9afb9;
     }
 
-    footer span a:hover {
+    footer span a:active {
         color: #f1c50e;
     }
 
