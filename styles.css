@@ -109,6 +109,10 @@ header h1 {
         color: #a9afb9;
     }
 
+    footer span a:hover {
+        color: #f1c50e;
+    }
+
     .yellow-rectangle {
         justify-self: end;
         grid-row: 1;
@@ -142,4 +146,5 @@ header h1 {
         right: 23%;
         bottom: 170%;
     }
+
 }
